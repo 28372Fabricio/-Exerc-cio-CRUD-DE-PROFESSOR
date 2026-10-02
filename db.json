@@ -7,6 +7,32 @@
       "cpf": "123.456.789-00",
       "data_nascimento": "2007-05-14",
       "endereco": "Rua das Flores, 123 - Pau dos Ferros/RN"
+    },
+    {
+      "nome": "Fabricio",
+      "email": "n.fabricio@escolar.ifrn.edu.br",
+      "cpf": "127.227.284-27",
+      "data_nascimento": "2026-10-02",
+      "endereco": "Àgua Nova",
+      "id": 2
+    }
+  ],
+  "professores": [
+    {
+      "id": 1,
+      "nome": "João da Silva",
+      "email": "joao@email.com",
+      "cpf": "987.654.321-00",
+      "disciplina": "Matemática",
+      "data_admissao": "2020-03-01"
+    },
+    {
+      "nome": "Jeferson",
+      "email": "Jeferson@email.com",
+      "cpf": "65986759879",
+      "disciplina": "PI",
+      "data_admissão": "2017-03-03",
+      "id": 2
     }
   ]
 }
